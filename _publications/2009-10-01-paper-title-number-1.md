@@ -10,6 +10,6 @@ citation: 'Cardona-Jiménez, J., & Pereira, C. A. D. B. (2021). Assessing dynami
 ---
 
 
-[Download paper here]([http://academicpages.github.io/files/paper1.pdf](https://www.sciencedirect.com/science/article/pii/S0167947321001316#br0080))
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S0167947321001316#br0080)
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
