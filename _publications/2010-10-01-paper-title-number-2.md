@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Bayesian dynamic models to estimate the impact of halting vehicle fleets on the air quality: a case study from Medellín, Colombia"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 
+date: 2024-09-24
+venue: ' Stochastic Environmental Research and Risk Assessment'
+paperurl: '(https://link.springer.com/article/10.1007/s00477-024-02806-z?utm_source=researchgate.net&utm_medium=article)'
+citation: 'Cardona-Jiménez, J., Aguirre, C. A. P., Gomez-Miranda, I. N., & Ramírez, I. (2024). Bayesian dynamic models to estimate the impact of halting vehicle fleets on the air quality: a case study from Medellín, Colombia. Stochastic Environmental Research and Risk Assessment, 38(11), 4331-4346.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+
+[Download paper here](https://link.springer.com/article/10.1007/s00477-024-02806-z?utm_source=researchgate.net&utm_medium=article)
 
 Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
