@@ -1,20 +1,21 @@
 ---
-title: "Teaching experience 1"
+title: "Courses I Teach"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Courses"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Universidad Nacional de Colombia, Department of Statistics"
+date: 2023–present
+location: “Medellín, Colombia”
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+**Courses**
 
-Heading 1
+Bayesian Analysis 
 ======
 
-Heading 2
+Design of Experiments
 ======
 
-Heading 3
+Regression Analysis
 ======
+
